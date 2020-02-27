@@ -25,9 +25,8 @@
 #### 3.打开spyder加载本项目
 在文件夹auto_ma913中找到ma_ind200227.py文件，单击运行。
 ![Image](https://github.com/yyy999/auto_ma912/blob/master/01.png)
-```
 
-```
+
 ## 贡献代码
 
 auto_ma使用Github托管其源代码，如果希望贡献代码请使用github的PR（Pull Request）的流程:
