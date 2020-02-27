@@ -25,8 +25,8 @@
 #### 3.打开spyder加载本项目
 在文件夹auto_ma913中找到ma_ind200227.py文件，单击运行。
 
-![](https://github.com/yyy999/auto_ma912/blob/master/01.png)
 
+<img src ="/Mt4_ea999_s.jpg"  width="00" height="00"/>
 
 
 ## 贡献代码
@@ -76,7 +76,7 @@ auto_ma使用Github托管其源代码，如果希望贡献代码请使用github�
 
 * [社区行为准则](https://github.com/yyy999/auto_ma912/blob/docs/rule.md)
 
-##联系信息
+## 联系信息
  网站：http://www.simplenet.top
 
  QQ：806935610
