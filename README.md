@@ -70,7 +70,7 @@ auto_ma使用Github托管其源代码，如果希望贡献代码请使用github�
 
 [!image](http://www.simplenet.top/hb/image/Mt4_ea999_s.jpg)
 <p align="center">
-  <img src ="http://www.simplenet.top/hb/image/Mt4_ea999_s.jpg"/>
+  <img src ="http://www.simplenet.top/hb/image/Mt4_ea999_s.jpg"  width="200" height="200"/>
 </p>
 
 * [社区行为准则](https://github.com/yyy999/auto_ma912/blob/docs/rule.md)
@@ -82,7 +82,8 @@ auto_ma使用Github托管其源代码，如果希望贡献代码请使用github�
 
  微信：yyy99966
 <p align="center">
-  <img src ="http://www.simplenet.top/hb/image/yyy99966.jpg"/>
+  <img src ="http://www.simplenet.top/hb/image/yyy99966_1.jpg"  width="200" height="200"/>
+
 </p>
 
 ## 版权说明
