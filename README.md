@@ -3,7 +3,7 @@
  开发环境:win10,spyder(anaconda3)
  <p align="center">
 
-![](/ma_ind.png)
+![](\img\ma_ind.png)
 
 </p>
 
@@ -25,7 +25,7 @@
 #### 3.打开spyder加载本项目
 在文件夹auto_ma913中找到ma_ind200227.py文件，单击运行。
 
-![](/img/01.png)
+![](\img\01.png)
 
 
 
