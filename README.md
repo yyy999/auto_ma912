@@ -3,7 +3,7 @@
  开发环境:win10,spyder(anaconda3)
  <p align="center">
 
-![Image](https://github.com/yyy999/auto_ma912/blob/master/ma_ind.png)
+![Image](/ma_ind.png)
 
 </p>
 
