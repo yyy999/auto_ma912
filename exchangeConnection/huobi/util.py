@@ -19,7 +19,6 @@ import urllib
 import urllib.parse
 import urllib.request
 import requests
-#import accountConfig
 # 此处填写APIKEY
 
 # API 请求地址
