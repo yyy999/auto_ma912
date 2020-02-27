@@ -3,7 +3,7 @@
  开发环境:win10,spyder(anaconda3)
  <p align="center">
 
-![Image](https://github.com/yyy999/auto_ma912/blob/master/01.png)
+![](https://github.com/yyy999/auto_ma912/blob/master/01.png)
 
 </p>
 
@@ -24,7 +24,7 @@
 #### 2.下载本项目并解压所有文件
 #### 3.打开spyder加载本项目
 在文件夹auto_ma913中找到ma_ind200227.py文件，单击运行。
-![Image](https://github.com/yyy999/auto_ma912/blob/master/01.png)
+![](https://github.com/yyy999/auto_ma912/blob/master/01.png)
 ```
 
 ```
