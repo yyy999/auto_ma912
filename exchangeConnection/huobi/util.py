@@ -19,14 +19,8 @@ import urllib
 import urllib.parse
 import urllib.request
 import requests
-import accountConfig
+#import accountConfig
 # 此处填写APIKEY
-
-#ACCESS_KEY = "152696e6-10a6dda2-787fcb1a-bewr5drtmh"
-#SECRET_KEY = "18f45246-85b7228d-996e0d98-82540"
-#ACCESS_KEY = "30abf671-1qdmpe4rty-4bef0805-2360d"
-#SECRET_KEY = "02b3ea6d-35ae1e6e-c99c222a-4e29d"
-
 
 # API 请求地址
 MARKET_URL = "https://api.huobi.io"
@@ -38,31 +32,8 @@ ACCOUNT_ID =  None
 #'Timestamp': '2017-06-02T06:13:49'
 
 KEY_INDEX = "USDT_1"  # 默认的key_index
-#
-#ACCOUNT_INFO = "get_account_info"
-#GET_ORDERS = "get_orders"
-#ORDER_INFO = "order_info"
-#BUY = "buy"
-#BUY_MARKET = "buy_market"
-#CANCEL_ORDER = "cancel_order"
-#NEW_DEAL_ORDERS = "get_new_deal_orders"
-#ORDER_ID_BY_TRADE_ID = "get_order_id_by_trade_id"
-#SELL = "sell"
-#SELL_MARKET = "sell_market"
-
-'''
-发送信息到api
-'''
 
 
-def send2api(pParams, extra, key_index=KEY_INDEX):
-
-    if pParams['method']=='get':
-        res=api_key_get(pParams,pParams['urlPath'])
-    else:
-        res=api_key_post(pParams,pParams['urlPath'])
-
-    return res
 
 def http_get_request(url, params, add_to_headers=None):
     headers = {
