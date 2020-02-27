@@ -3,8 +3,8 @@
  开发环境:win10,spyder(anaconda3)
  <p align="center">
 
-![](https://github.com/yyy999/auto_ma912/blob/master/01.png)
 
+<img src ="https://github.com/yyy999/auto_ma912/blob/master/ma_ind.png" />
 </p>
 
 #ET量化交易web系统：[http://www.simplenet.top](http://www.simplenet.top/hb/ranking.php)
@@ -26,7 +26,7 @@
 在文件夹auto_ma913中找到ma_ind200227.py文件，单击运行。
 
 
-<img src ="https://github.com/yyy999/auto_ma912/blob/master/01.png width="00" height="00"/>
+<img src ="https://github.com/yyy999/auto_ma912/blob/master/01.png" width="00" height="00"/>
 
 
 ## 贡献代码
