@@ -26,7 +26,7 @@
 在文件夹auto_ma913中找到ma_ind200227.py文件，单击运行。
 
 
-<img src ="/Mt4_ea999_s.jpg"  width="00" height="00"/>
+<img src ="https://github.com/yyy999/auto_ma912/blob/master/01.png width="00" height="00"/>
 
 
 ## 贡献代码
