@@ -2,7 +2,13 @@
  一个用python写的比特币均线指标
  
  <p align="center">
+<<<<<<< HEAD
   <img src ="http://www.simplenet.top/hb/image/ma_ind.png"  />
+=======
+
+![](/img/ma_ind.png)
+
+>>>>>>> 89b7582d481ffbfac355d2dc4f86cd169705f1b3
 </p>
  开发环境:win10,spyder(anaconda3)
 
@@ -25,9 +31,13 @@
 #### 3.打开spyder加载本项目
 在文件夹auto_ma913中找到ma_ind200227.py文件，单击运行。
 
+<<<<<<< HEAD
  <p align="center">
   <img src ="http://www.simplenet.top/hb/image/01.png"  />
 </p>
+=======
+![](https://github.com/yyy999/auto_ma912/blob/master/img/01.png)
+>>>>>>> 89b7582d481ffbfac355d2dc4f86cd169705f1b3
 
 
 
@@ -60,7 +70,7 @@ auto_ma使用Github托管其源代码，如果希望贡献代码请使用github�
 
 过去3年中收到过许多社区用户的捐赠，在此深表感谢！所有的捐赠资金都投入到了ET量化交易社区基金中，用于支持ET项目的运作。
 
-在此强调一下：**ETfree是我们整个ET量化交易社区中的一个开源项目，可以永久免费使用！！！**
+在此强调一下：**ETopen是我们整个ET量化交易社区中的一个开源项目，可以永久免费使用！！！**
 
 捐赠方式：微信：yyy99966（**林）
 
