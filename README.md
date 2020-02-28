@@ -1,11 +1,11 @@
 # auto_ma912
  一个用python写的比特币均线指标
- 开发环境:win10,spyder(anaconda3)
+ 
  <p align="center">
-
-![](\img\ma_ind.png)
-
+  <img src ="http://www.simplenet.top/hb/image/ma_ind.png"  />
 </p>
+ 开发环境:win10,spyder(anaconda3)
+
 
 #ET量化交易web系统：[http://www.simplenet.top](http://www.simplenet.top/hb/ranking.php)
 # 安装与使用指南
@@ -25,7 +25,9 @@
 #### 3.打开spyder加载本项目
 在文件夹auto_ma913中找到ma_ind200227.py文件，单击运行。
 
-![](\img\01.png)
+ <p align="center">
+  <img src ="http://www.simplenet.top/hb/image/01.png"  />
+</p>
 
 
 
