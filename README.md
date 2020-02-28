@@ -2,13 +2,11 @@
  一个用python写的比特币均线指标
  
  <p align="center">
-<<<<<<< HEAD
+
   <img src ="http://www.simplenet.top/hb/image/ma_ind.png"  />
-=======
 
-![](/img/ma_ind.png)
 
->>>>>>> 89b7582d481ffbfac355d2dc4f86cd169705f1b3
+
 </p>
  开发环境:win10,spyder(anaconda3)
 
@@ -31,13 +29,11 @@
 #### 3.打开spyder加载本项目
 在文件夹auto_ma913中找到ma_ind200227.py文件，单击运行。
 
-<<<<<<< HEAD
+
  <p align="center">
   <img src ="http://www.simplenet.top/hb/image/01.png"  />
 </p>
-=======
-![](https://github.com/yyy999/auto_ma912/blob/master/img/01.png)
->>>>>>> 89b7582d481ffbfac355d2dc4f86cd169705f1b3
+
 
 
 
